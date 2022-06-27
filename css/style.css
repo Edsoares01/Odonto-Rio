@@ -1,0 +1,27 @@
+.btn-pink{
+
+background-color: pink;
+
+color: blue;
+}
+
+.nav-link{
+
+    color: #333 !important;
+}
+
+.navbarDropdownMenuLink{
+
+
+    justify-content:  end;
+}
+
+.bg-family{
+
+    background-color: #E5EEF3;
+
+}
+.bg-footer{
+
+    background-color: #003366;
+}
